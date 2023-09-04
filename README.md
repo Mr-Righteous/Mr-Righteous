@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MrMKN&&show_icons=true&theme=midnight-purple" alt="Mr-Righteous"/></p>        
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mr-Righteous&&show_icons=true&theme=midnight-purple" alt="Mr-Righteous"/></p>        
  
 <p align="center">
 Used Languages 
