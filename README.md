@@ -24,11 +24,11 @@
 </p>
 
 <p align="center">&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MrMKN&&show_icons=true&theme=midnight-purple" alt="MrMKN"/></p>        
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MrMKN&&show_icons=true&theme=midnight-purple" alt="Mr-Righteous"/></p>        
  
 <p align="center">
 Used Languages 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrMKN&layout=compact&theme=tokyonight" align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Righteous&layout=compact&theme=tokyonight" align="center">
 
 
 ðŸ† ð“ð‘ðŽðð‡ðˆð„ð’ ðŸ†
@@ -41,11 +41,11 @@ Used Languages
 
 [![Sparkline](https://stars.medv.io/EvamariaTG/EvaMaria.svg)](https://stars.medv.io/EvamariaTG/EvaMaria)
 
-<a href="https://t.me/mrrighteous99"><img title="Telegram" src="https://img.shields.io/static/v1?label=Mr.MKN&message=TG&color=blue-green"></a>
+<a href="https://t.me/mrrighteous99"><img title="Telegram" src="https://img.shields.io/static/v1?label=Mr.Righteous&message=TG&color=blue-green"></a>
 
 <b>ð•ðˆð’ðˆð“ðŽð‘ð’</b>
 
-<img width="50%" src="https://gpvc.arturio.dev/MrMKN" alt="Profile views" />
+<img width="50%" src="https://gpvc.arturio.dev/Mr-Righteous" alt="Profile views" />
 
 
 
